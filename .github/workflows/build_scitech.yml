@@ -2,6 +2,9 @@ name: Build RSS
 
 on:
   push:
+    paths:
+      - 'scrape_scitech.py'
+      - '.github/workflows/build_scitech.yml'
   workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
