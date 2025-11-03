@@ -1,4 +1,4 @@
-name: Build RSS
+name: Build RSS (SciTech)
 
 on:
   push:
@@ -7,7 +7,11 @@ on:
       - '.github/workflows/build_scitech.yml'
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "5 */6 * * *"   # runs every 6h, 5 minutes after the hour (staggered)
+
+concurrency:
+  group: rss-feed-updates
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -16,17 +20,25 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - run: pip install -r requirements.txt
-      # Install Chromium and its dependencies for Playwright
       - run: python -m playwright install --with-deps chromium
+
       - run: python scrape_scitech.py
+
       - name: Commit feed_scitech.xml
+        shell: bash
         run: |
+          set -e
+          test -f feed_scitech.xml
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
+          git fetch origin ${{ github.ref_name }}
+          git pull --rebase origin ${{ github.ref_name }}
           git add feed_scitech.xml
-          git commit -m "Update feed" || echo "No changes"
-          git push
+          git commit -m "Update SciTech feed" || echo "No changes"
+          git push origin HEAD:${{ github.ref_name }}
