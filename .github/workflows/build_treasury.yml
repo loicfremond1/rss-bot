@@ -1,0 +1,50 @@
+name: Build RSS (Treasury)
+
+on:
+  push:
+    paths:
+      - 'scrape_treasury.py'
+      - '.github/workflows/build_treasury.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '20 */6 * * *'   # every 6h, staggered from others
+
+concurrency:
+  group: rss-feed-updates
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+
+      - run: python scrape_treasury.py
+
+      - name: Commit feed_treasury.xml
+        shell: bash
+        run: |
+          set -e
+          test -f feed_treasury.xml
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+
+          # 1) commit local change
+          git add feed_treasury.xml
+          git commit -m "Update Treasury feed" || echo "No changes"
+
+          # 2) rebase on latest remote (handles parallel pushes)
+          git fetch origin ${{ github.ref_name }}
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+
+          # 3) push
+          git push origin HEAD:${{ github.ref_name }}
