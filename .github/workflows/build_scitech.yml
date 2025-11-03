@@ -7,7 +7,7 @@ on:
       - '.github/workflows/build_scitech.yml'
   workflow_dispatch:
   schedule:
-    - cron: "5 */6 * * *"   # runs every 6h, 5 minutes after the hour (staggered)
+    - cron: '5 */6 * * *'   # every 6h, offset 5 minutes to avoid overlap
 
 concurrency:
   group: rss-feed-updates
@@ -23,7 +23,7 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - run: pip install -r requirements.txt
       - run: python -m playwright install --with-deps chromium
@@ -37,8 +37,14 @@ jobs:
           test -f feed_scitech.xml
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git fetch origin ${{ github.ref_name }}
-          git pull --rebase origin ${{ github.ref_name }}
+
+          # 1) commit local changes first
           git add feed_scitech.xml
           git commit -m "Update SciTech feed" || echo "No changes"
+
+          # 2) rebase onto latest remote, auto-stashing if needed
+          git fetch origin ${{ github.ref_name }}
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+
+          # 3) push
           git push origin HEAD:${{ github.ref_name }}
