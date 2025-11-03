@@ -1,0 +1,50 @@
+name: Build RSS (Business & Trade)
+
+on:
+  push:
+    paths:
+      - 'scrape_businessandtrade.py'
+      - '.github/workflows/build_businessandtrade.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '15 */6 * * *'   # every 6h, staggered from your other feeds
+
+concurrency:
+  group: rss-feed-updates
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+
+      - run: python scrape_businessandtrade.py
+
+      - name: Commit feed_businessandtrade.xml
+        shell: bash
+        run: |
+          set -e
+          test -f feed_businessandtrade.xml
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+
+          # 1) commit local change
+          git add feed_businessandtrade.xml
+          git commit -m "Update Business & Trade feed" || echo "No changes"
+
+          # 2) rebase on latest remote (avoids non-fast-forward)
+          git fetch origin ${{ github.ref_name }}
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+
+          # 3) push
+          git push origin HEAD:${{ github.ref_name }}
