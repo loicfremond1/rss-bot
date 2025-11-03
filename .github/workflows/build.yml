@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours UTC
+    - cron: "0 */6 * * *"
 
 jobs:
   build:
@@ -17,6 +17,8 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install -r requirements.txt
+      # Install Chromium and its dependencies for Playwright
+      - run: python -m playwright install --with-deps chromium
       - run: python scrape.py
       - name: Commit feed.xml
         run: |
