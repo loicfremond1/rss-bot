@@ -2,6 +2,9 @@ name: Build RSS (Work and Pensions)
 
 on:
   push:
+    paths:
+      - 'scrape_workandpensions.py'
+      - '.github/workflows/build_workandpensions.yml'
   workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
