@@ -7,7 +7,11 @@ on:
       - '.github/workflows/build_workandpensions.yml'
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # runs every 6h, on the hour (staggered vs SciTech)
+
+concurrency:
+  group: rss-feed-updates
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -16,21 +20,25 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - run: pip install -r requirements.txt
       - run: python -m playwright install --with-deps chromium
+
       - run: python scrape_workandpensions.py
 
       - name: Commit feed_workandpensions.xml
         shell: bash
         run: |
           set -e
-          ls -la
           test -f feed_workandpensions.xml
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
+          git fetch origin ${{ github.ref_name }}
+          git pull --rebase origin ${{ github.ref_name }}
           git add feed_workandpensions.xml
           git commit -m "Update Work & Pensions feed" || echo "No changes"
-          git push
+          git push origin HEAD:${{ github.ref_name }}
