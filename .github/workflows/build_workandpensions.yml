@@ -1,0 +1,28 @@
+name: Build RSS (Work and Pensions Committee)
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - run: python scrape_workandpensions.py
+      - name: Commit feed_workandpensions.xml
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add feed_workandpensions.xml
+          git commit -m "Update Work and Pensions feed" || echo "No changes"
+          git push
