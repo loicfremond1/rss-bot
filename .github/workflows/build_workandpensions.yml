@@ -21,8 +21,10 @@ jobs:
       - run: python scrape_workandpensions.py
       - name: Commit feed_workandpensions.xml
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add feed_workandpensions.xml
-          git commit -m "Update Work and Pensions feed" || echo "No changes"
-          git push
+    ls -la
+    test -f feed_workandpensions.xml
+    git config user.name "github-actions"
+    git config user.email "github-actions@users.noreply.github.com"
+    git add feed_workandpensions.xml
+    git commit -m "Update Work & Pensions feed" || echo "No changes"
+    git push
