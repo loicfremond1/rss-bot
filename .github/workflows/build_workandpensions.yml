@@ -20,7 +20,7 @@ jobs:
       - run: python -m playwright install --with-deps chromium
       - run: python scrape_workandpensions.py
       - name: Commit feed_workandpensions.xml
-        run: |
+  run: |
     ls -la
     test -f feed_workandpensions.xml
     git config user.name "github-actions"
