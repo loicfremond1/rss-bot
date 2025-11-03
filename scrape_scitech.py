@@ -75,8 +75,11 @@ def main():
     html_text = fetch_html_with_browser(START_URL)
     items = build_items(html_text, START_URL)
     xml = rss2(items)
-    with open("feed.xml", "w", encoding="utf-8") as f:
+    with open("feed_scitech.xml", "w", encoding="utf-8") as f:
         f.write(xml)
+
+if __name__ == "__main__":
+    main()
 
 if __name__ == "__main__":
     main()
