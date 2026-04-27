@@ -10,7 +10,7 @@ on:
     - cron: '10 */6 * * *'   # every 6h, staggered vs the others
 
 concurrency:
-  group: rss-feed-updates
+  group: rss-feed-updates-${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -35,13 +35,19 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
 
-          # 1) commit local changes
+          # Commit local change, then retry rebase/push if another feed lands first.
           git add feed_hsc.xml
           git commit -m "Update HSC feed" || echo "No changes"
-
-          # 2) rebase on latest remote (handles parallel pushes cleanly)
-          git fetch origin ${{ github.ref_name }}
-          git pull --rebase --autostash origin ${{ github.ref_name }}
-
-          # 3) push
-          git push origin HEAD:${{ github.ref_name }}
+          for attempt in 1 2 3; do
+            git fetch origin ${{ github.ref_name }}
+            git pull --rebase --autostash origin ${{ github.ref_name }}
+            if git push origin HEAD:${{ github.ref_name }}; then
+              break
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "Push failed after $attempt attempts"
+              exit 1
+            fi
+            echo "Push failed; retrying after rebase (attempt $attempt)"
+            sleep 5
+          done
