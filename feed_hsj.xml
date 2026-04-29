@@ -4,13 +4,13 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Wed, 29 Apr 2026 08:39:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2026 14:56:53 +0000</lastBuildDate>
 <item>
-<title>Trust wasted £15m restoring unusable incinerator</title>
-<link>https://www.hsj.co.uk/london/trust-wasted-15m-restoring-unusable-incinerator/7041584.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/london/trust-wasted-15m-restoring-unusable-incinerator/7041584.article</guid>
-<description>“Systemic governance failures” lay behind a hospital trust wasting £15m restoring an incinerator which rapidly went out of use, a review has found.</description>
-<pubDate>Wed, 29 Apr 2026 04:09:00 +0000</pubDate>
+<title>DHSC paying £1.8m for advice on ‘culture and pay’</title>
+<link>https://www.hsj.co.uk/workforce/dhsc-paying-18m-for-advice-on-culture-and-pay/7041592.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/workforce/dhsc-paying-18m-for-advice-on-culture-and-pay/7041592.article</guid>
+<description>The Department of Health and Social Care is paying a management consultancy £1.8m to help it “create and drive the right target culture” – and to advise on “pay strategy” – as it absorbs NHS England.</description>
+<pubDate>Wed, 29 Apr 2026 12:10:00 +0000</pubDate>
 </item>
 <item>
 <title>DHSC hires firm to help with wave of private finance deals</title>
@@ -18,6 +18,13 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/finance-and-efficiency/dhsc-hires-firm-to-help-with-wave-of-private-finance-deals/7041590.article</guid>
 <description>The Department of Health and Social Care has commissioned a “technical adviser” to develop the public-private partnership model for neighbourhood health centres.</description>
 <pubDate>Wed, 29 Apr 2026 04:13:00 +0000</pubDate>
+</item>
+<item>
+<title>Trust wasted £15m restoring unusable incinerator</title>
+<link>https://www.hsj.co.uk/london/trust-wasted-15m-restoring-unusable-incinerator/7041584.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/london/trust-wasted-15m-restoring-unusable-incinerator/7041584.article</guid>
+<description>“Systemic governance failures” lay behind a hospital trust wasting £15m restoring an incinerator which rapidly went out of use, a review has found.</description>
+<pubDate>Wed, 29 Apr 2026 04:09:00 +0000</pubDate>
 </item>
 <item>
 <title>Trust defies advice to abandon £10m contract</title>
@@ -137,12 +144,5 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/news/nhse-rows-back-on-controversial-target/7041561.article</guid>
 <description>NHS England has rowed back on what was widely understood to be a new target for the proportion of patients it wanted “diverted” away from waiting lists, after accusations it was rationing care.</description>
 <pubDate>Wed, 22 Apr 2026 19:31:00 +0000</pubDate>
-</item>
-<item>
-<title>Patients stuck in unsafe hospital for two more months</title>
-<link>https://www.hsj.co.uk/mental-health/patients-stuck-in-unsafe-hospital-for-two-more-months/7041559.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/mental-health/patients-stuck-in-unsafe-hospital-for-two-more-months/7041559.article</guid>
-<description>NHS England has accepted it will take until the end of June to move “priority” patients out of a hospital where there are “serious safety concerns”.</description>
-<pubDate>Wed, 22 Apr 2026 15:42:00 +0000</pubDate>
 </item>
 </channel></rss>
