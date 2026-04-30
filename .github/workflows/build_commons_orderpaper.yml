@@ -1,0 +1,55 @@
+name: Build RSS (Commons Order Paper)
+
+on:
+  push:
+    paths:
+      - 'scrape_commons_orderpaper.py'
+      - '.github/workflows/build_commons_orderpaper.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '45 */6 * * *'   # every 6h, staggered from the other feeds
+
+concurrency:
+  group: rss-feed-updates-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install -r requirements.txt
+
+      - run: python scrape_commons_orderpaper.py
+
+      - name: Commit feed_commons_orderpaper.xml
+        shell: bash
+        run: |
+          set -e
+          test -f feed_commons_orderpaper.xml
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+
+          # Commit local change, then retry rebase/push if another feed lands first.
+          git add feed_commons_orderpaper.xml
+          git commit -m "Update Commons Order Paper feed" || echo "No changes"
+          for attempt in 1 2 3; do
+            git fetch origin ${{ github.ref_name }}
+            git pull --rebase --autostash origin ${{ github.ref_name }}
+            if git push origin HEAD:${{ github.ref_name }}; then
+              break
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "Push failed after $attempt attempts"
+              exit 1
+            fi
+            echo "Push failed; retrying after rebase (attempt $attempt)"
+            sleep 5
+          done
