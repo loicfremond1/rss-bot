@@ -4,7 +4,7 @@ import html
 import re
 import sys
 from urllib.error import URLError
-from urllib.parse import urljoin
+from urllib.parse import urlencode, urljoin
 from urllib.request import Request, urlopen
 
 SITE_TITLE = "UK Parliament - Commons Order Paper"
@@ -22,6 +22,18 @@ USER_AGENT = (
 )
 
 TAG_RE = re.compile(r"<[^>]+>")
+
+
+def build_search_url(page: int = 1) -> str:
+    params = [
+        ("DocumentTypeId", "1"),
+        ("EndDate", ""),
+        ("SearchTerm", ""),
+        ("StartDate", ""),
+    ]
+    if page > 1:
+        params.append(("page", str(page)))
+    return f"{BASE_URL}/search?{urlencode(params)}"
 
 
 def fetch_html(url: str) -> str:
@@ -112,19 +124,23 @@ def parse_card(card_html: str) -> dict | None:
 
 
 def build_items() -> list[dict]:
-    page_html = fetch_with_retry(SITE_LINK)
-    cards = page_html.split('<div class="card card-document card-document-standalone">')[1:]
     items = []
     seen = set()
 
-    for card_html in cards:
-        item = parse_card(card_html)
-        if not item or item["link"] in seen:
-            continue
-        items.append(item)
-        seen.add(item["link"])
-        if len(items) >= MAX_ITEMS:
+    for page in range(1, 5):
+        page_html = fetch_with_retry(build_search_url(page))
+        cards = page_html.split('<div class="card card-document card-document-standalone">')[1:]
+        if not cards:
             break
+
+        for card_html in cards:
+            item = parse_card(card_html)
+            if not item or item["link"] in seen:
+                continue
+            items.append(item)
+            seen.add(item["link"])
+            if len(items) >= MAX_ITEMS:
+                return items
 
     return items
 
