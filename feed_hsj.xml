@@ -4,7 +4,14 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Wed, 06 May 2026 09:07:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 15:15:03 +0000</lastBuildDate>
+<item>
+<title>Exclusive: No 10 sets new GP access target</title>
+<link>https://www.hsj.co.uk/policy-and-regulation/exclusive-no-10-sets-new-gp-access-target/7041625.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/policy-and-regulation/exclusive-no-10-sets-new-gp-access-target/7041625.article</guid>
+<description>A new target for improving patients’ experience of making GP appointments is among three top NHS priorities identified by the prime minister for this year, HSJ has learned.</description>
+<pubDate>Wed, 06 May 2026 12:01:00 +0000</pubDate>
+</item>
 <item>
 <title>NHSE locks down ‘open source’ code over Mythos AI fears</title>
 <link>https://www.hsj.co.uk/technology-and-innovation/nhse-locks-down-open-source-code-over-mythos-ai-fears/7041649.article</link>
@@ -104,17 +111,17 @@
 <pubDate>Fri, 01 May 2026 04:20:00 +0000</pubDate>
 </item>
 <item>
-<title>ICBs using AI to guide job cuts</title>
-<link>https://www.hsj.co.uk/workforce/icbs-using-ai-to-guide-job-cuts/7041605.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/workforce/icbs-using-ai-to-guide-job-cuts/7041605.article</guid>
-<description>An integrated care board cluster is planning to use AI to job-match staff as part of its plans to achieve 50 per cent cuts to running costs.</description>
-<pubDate>Thu, 30 Apr 2026 11:35:00 +0000</pubDate>
-</item>
-<item>
 <title>First chair for ‘NHS leadership college’ appointed</title>
 <link>https://www.hsj.co.uk/workforce/first-chair-for-nhs-leadership-college-appointed/7041604.article</link>
 <guid isPermaLink='true'>https://www.hsj.co.uk/workforce/first-chair-for-nhs-leadership-college-appointed/7041604.article</guid>
 <description>A former chair of NHS Improvement has been appointed to lead the new national “college” for senior managers and clinical leaders, HSJ has learned.</description>
+<pubDate>Thu, 30 Apr 2026 11:35:00 +0000</pubDate>
+</item>
+<item>
+<title>ICBs using AI to guide job cuts</title>
+<link>https://www.hsj.co.uk/workforce/icbs-using-ai-to-guide-job-cuts/7041605.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/workforce/icbs-using-ai-to-guide-job-cuts/7041605.article</guid>
+<description>An integrated care board cluster is planning to use AI to job-match staff as part of its plans to achieve 50 per cent cuts to running costs.</description>
 <pubDate>Thu, 30 Apr 2026 11:35:00 +0000</pubDate>
 </item>
 <item>
@@ -137,12 +144,5 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/workforce/dhsc-paying-18m-for-advice-on-culture-and-pay/7041592.article</guid>
 <description>The Department of Health and Social Care is paying a management consultancy £1.8m to help it “create and drive the right target culture” – and to advise on “pay strategy” – as it absorbs NHS England.</description>
 <pubDate>Wed, 29 Apr 2026 12:10:00 +0000</pubDate>
-</item>
-<item>
-<title>DHSC hires firm to help with wave of private finance deals</title>
-<link>https://www.hsj.co.uk/finance-and-efficiency/dhsc-hires-firm-to-help-with-wave-of-private-finance-deals/7041590.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/finance-and-efficiency/dhsc-hires-firm-to-help-with-wave-of-private-finance-deals/7041590.article</guid>
-<description>The Department of Health and Social Care has commissioned a “technical adviser” to develop the public-private partnership model for neighbourhood health centres.</description>
-<pubDate>Wed, 29 Apr 2026 04:13:00 +0000</pubDate>
 </item>
 </channel></rss>
