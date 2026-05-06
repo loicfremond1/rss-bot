@@ -4,13 +4,20 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Wed, 06 May 2026 04:24:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 09:07:44 +0000</lastBuildDate>
 <item>
-<title>Leaked review warns CDCs a ‘burden’ on trusts</title>
-<link>https://www.hsj.co.uk/finance-and-efficiency/leaked-review-warns-cdcs-a-burden-on-trusts/7041595.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/finance-and-efficiency/leaked-review-warns-cdcs-a-burden-on-trusts/7041595.article</guid>
-<description>Community diagnostic centres could become a financial “burden” on providers without extra funding and changes to how tests are paid for, the programme’s architect has warned in an internal review obtained by HSJ.</description>
-<pubDate>Tue, 05 May 2026 11:38:00 +0000</pubDate>
+<title>NHSE locks down ‘open source’ code over Mythos AI fears</title>
+<link>https://www.hsj.co.uk/technology-and-innovation/nhse-locks-down-open-source-code-over-mythos-ai-fears/7041649.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/technology-and-innovation/nhse-locks-down-open-source-code-over-mythos-ai-fears/7041649.article</guid>
+<description>NHS England is restricting access to open source code after researchers found that the Mythos AI model could expose “pretty severe” vulnerabilities in commonly used software.</description>
+<pubDate>Wed, 06 May 2026 07:54:00 +0000</pubDate>
+</item>
+<item>
+<title>Mackey’s heir named number one trust CEO</title>
+<link>https://www.hsj.co.uk/workforce/mackeys-heir-named-number-one-trust-ceo/7041587.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/workforce/mackeys-heir-named-number-one-trust-ceo/7041587.article</guid>
+<description>The top two trust chief executives in the 12th edition of HSJ’s annual ranking of the most respected provider CEOs have taken very different routes to the summit.</description>
+<pubDate>Wed, 06 May 2026 05:55:00 +0000</pubDate>
 </item>
 <item>
 <title>French tech giant seeks to crack GP IT duopoly</title>
@@ -32,6 +39,13 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/technology-and-innovation/trusts-see-surge-in-ai-generated-complaints/7041612.article</guid>
 <description>Trusts’ complaints teams are facing a wave of AI-generated complaints letters which can run to dozens of pages, deploying inaccurate legal arguments and containing hallucinated information, HSJ has learned.</description>
 <pubDate>Tue, 05 May 2026 11:40:00 +0000</pubDate>
+</item>
+<item>
+<title>Leaked review warns CDCs a ‘burden’ on trusts</title>
+<link>https://www.hsj.co.uk/finance-and-efficiency/leaked-review-warns-cdcs-a-burden-on-trusts/7041595.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/finance-and-efficiency/leaked-review-warns-cdcs-a-burden-on-trusts/7041595.article</guid>
+<description>Community diagnostic centres could become a financial “burden” on providers without extra funding and changes to how tests are paid for, the programme’s architect has warned in an internal review obtained by HSJ.</description>
+<pubDate>Tue, 05 May 2026 11:38:00 +0000</pubDate>
 </item>
 <item>
 <title>Ex-NHSE director joins NICE top team</title>
@@ -130,19 +144,5 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/finance-and-efficiency/dhsc-hires-firm-to-help-with-wave-of-private-finance-deals/7041590.article</guid>
 <description>The Department of Health and Social Care has commissioned a “technical adviser” to develop the public-private partnership model for neighbourhood health centres.</description>
 <pubDate>Wed, 29 Apr 2026 04:13:00 +0000</pubDate>
-</item>
-<item>
-<title>Trust wasted £15m restoring unusable incinerator</title>
-<link>https://www.hsj.co.uk/london/trust-wasted-15m-restoring-unusable-incinerator/7041584.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/london/trust-wasted-15m-restoring-unusable-incinerator/7041584.article</guid>
-<description>“Systemic governance failures” lay behind a hospital trust wasting £15m restoring an incinerator which rapidly went out of use, a review has found.</description>
-<pubDate>Wed, 29 Apr 2026 04:09:00 +0000</pubDate>
-</item>
-<item>
-<title>Updated: Trust to re-let £10m contract after ‘highly material errors’</title>
-<link>https://www.hsj.co.uk/finance-and-efficiency/updated-trust-to-re-let-10m-contract-after-highly-material-errors/7041554.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/finance-and-efficiency/updated-trust-to-re-let-10m-contract-after-highly-material-errors/7041554.article</guid>
-<description>A trust plans to restart a £10m contract award to run two urgent care centres after making a string of “highly material” errors in the procurement process.</description>
-<pubDate>Tue, 28 Apr 2026 12:01:00 +0000</pubDate>
 </item>
 </channel></rss>
