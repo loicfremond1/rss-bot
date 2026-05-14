@@ -4,13 +4,27 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Thu, 14 May 2026 09:19:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 May 2026 15:09:49 +0000</lastBuildDate>
 <item>
-<title>NHS churned through 47 ministers in 11 years</title>
-<link>https://www.hsj.co.uk/policy-and-regulation/nhs-churned-through-47-ministers-in-11-years/7041712.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/policy-and-regulation/nhs-churned-through-47-ministers-in-11-years/7041712.article</guid>
-<description>Forty-seven people have served as ministers in the Department of Health and Social Care in the 11 years since the 2015 general election, with an average tenure of just 491 days, according to analysis by HSJ.</description>
-<pubDate>Thu, 14 May 2026 05:00:00 +0000</pubDate>
+<title>Streeting quits government</title>
+<link>https://www.hsj.co.uk/policy-and-regulation/streeting-quits-government/7041714.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/policy-and-regulation/streeting-quits-government/7041714.article</guid>
+<description>Wes Streeting has resigned as health and social care secretary.</description>
+<pubDate>Thu, 14 May 2026 12:03:00 +0000</pubDate>
+</item>
+<item>
+<title>Increase in corridor care ‘haemorrhaging morale’, trust told</title>
+<link>https://www.hsj.co.uk/patient-safety/increase-in-corridor-care-haemorrhaging-morale-trust-told/7041692.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/patient-safety/increase-in-corridor-care-haemorrhaging-morale-trust-told/7041692.article</guid>
+<description>Governors at one of the largest trusts in the country have warned that moving patients from beds to chairs to free up space is a risk to staff and public morale.</description>
+<pubDate>Thu, 14 May 2026 12:12:00 +0000</pubDate>
+</item>
+<item>
+<title>Elective target hit after spike in ‘unreported removals’</title>
+<link>https://www.hsj.co.uk/quality-and-performance/elective-target-hit-after-spike-in-unreported-removals/7041721.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/quality-and-performance/elective-target-hit-after-spike-in-unreported-removals/7041721.article</guid>
+<description>NHS England has hit its 65 per cent waiting list for 2025-26, but experts said the “majority of the improvement” in March was driven by a “record” spike in “unreported removals”.</description>
+<pubDate>Thu, 14 May 2026 10:50:00 +0000</pubDate>
 </item>
 <item>
 <title>NHSE lead to stand in as CQC chief inspector</title>
@@ -18,6 +32,13 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/workforce/nhse-lead-to-stand-in-as-cqc-chief-inspector/7041702.article</guid>
 <description>NHS England’s first medical director for mental health and neurodiversity is being seconded to the Care Quality Commission for six months.</description>
 <pubDate>Thu, 14 May 2026 05:31:00 +0000</pubDate>
+</item>
+<item>
+<title>NHS churned through 48 ministers in 11 years</title>
+<link>https://www.hsj.co.uk/policy-and-regulation/nhs-churned-through-48-ministers-in-11-years/7041712.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/policy-and-regulation/nhs-churned-through-48-ministers-in-11-years/7041712.article</guid>
+<description>Forty-eight people have served as ministers in the Department of Health and Social Care in the 11 years since the 2015 general election, with an average tenure of just 487 days, according to analysis by HSJ.</description>
+<pubDate>Thu, 14 May 2026 05:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Major trust names new chair after axing shared model</title>
@@ -123,26 +144,5 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/leadership/trust-upgraded-despite-staff-reports-of-discrimination-and-fear/7041675.article</guid>
 <description>A large acute trust has had its leadership rating upgraded from “inadequate”, despite serious concerns including allegations that a board member made “divisive and discriminatory remarks” about a Ramadan initiative.</description>
 <pubDate>Fri, 08 May 2026 04:45:00 +0000</pubDate>
-</item>
-<item>
-<title>ICB drafts in neighbour to review restructure</title>
-<link>https://www.hsj.co.uk/workforce/icb-drafts-in-neighbour-to-review-restructure/7041676.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/workforce/icb-drafts-in-neighbour-to-review-restructure/7041676.article</guid>
-<description>An integrated care board that was forced to reopen its consultation on staff cuts has called in a neighbour to review its plans.</description>
-<pubDate>Fri, 08 May 2026 02:15:00 +0000</pubDate>
-</item>
-<item>
-<title>US equity firm buys biggest supplier of GP IT</title>
-<link>https://www.hsj.co.uk/technology-and-innovation/us-equity-firm-buys-biggest-supplier-of-gp-it/7041674.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/technology-and-innovation/us-equity-firm-buys-biggest-supplier-of-gp-it/7041674.article</guid>
-<description>An American private equity firm has bought the company supplying more than half of England’s primary care IT systems.</description>
-<pubDate>Thu, 07 May 2026 14:59:00 +0000</pubDate>
-</item>
-<item>
-<title>NHSE tech funding priorities revealed</title>
-<link>https://www.hsj.co.uk/technology-and-innovation/nhse-tech-funding-priorities-revealed/7041622.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/technology-and-innovation/nhse-tech-funding-priorities-revealed/7041622.article</guid>
-<description>Regions are prioritising investing in ambient voice technology and cyber security over other technology this year, HSJ understands.</description>
-<pubDate>Thu, 07 May 2026 12:24:00 +0000</pubDate>
 </item>
 </channel></rss>
