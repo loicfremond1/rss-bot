@@ -4,7 +4,21 @@
 <title>UK Parliament - Commons Order Paper</title>
 <link>https://commonsbusiness.parliament.uk/search?DocumentTypeId=1&amp;EndDate=&amp;SearchTerm=&amp;StartDate=</link>
 <description>Custom RSS feed for the UK Parliament House of Commons Order Paper</description>
-<lastBuildDate>Wed, 13 May 2026 20:22:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2026 04:38:42 +0000</lastBuildDate>
+<item>
+<title>Order Paper - Monday 18 May 2026</title>
+<link>https://commonsbusiness.parliament.uk/Document/104757/Html?subType=Standard</link>
+<guid isPermaLink='true'>https://commonsbusiness.parliament.uk/Document/104757/Html?subType=Standard</guid>
+<description>Today&#x27;s business in the Chamber Additional notices of written ministerial statements and editorial changes may be added to the paper PDF: https://commonsbusiness.parliament.uk/Document/104757/Pdf?subType=Standard</description>
+<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Order Paper - Thursday 14 May 2026</title>
+<link>https://commonsbusiness.parliament.uk/Document/104751/Html?subType=Standard</link>
+<guid isPermaLink='true'>https://commonsbusiness.parliament.uk/Document/104751/Html?subType=Standard</guid>
+<description>Today&#x27;s business in the Chamber PDF: https://commonsbusiness.parliament.uk/Document/104751/Pdf?subType=Standard</description>
+<pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Order Paper - Wednesday 29 April 2026</title>
 <link>https://commonsbusiness.parliament.uk/Document/104185/Html?subType=Standard</link>
@@ -130,19 +144,5 @@
 <guid isPermaLink='true'>https://commonsbusiness.parliament.uk/Document/103059/Html?subType=Standard</guid>
 <description>Today&#x27;s business in the Chamber and Westminster Hall PDF: https://commonsbusiness.parliament.uk/Document/103059/Pdf?subType=Standard</description>
 <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Order Paper - Monday 16 March 2026</title>
-<link>https://commonsbusiness.parliament.uk/Document/103563/Html?subType=Standard</link>
-<guid isPermaLink='true'>https://commonsbusiness.parliament.uk/Document/103563/Html?subType=Standard</guid>
-<description>Today&#x27;s business in the Chamber and Westminster Hall PDF: https://commonsbusiness.parliament.uk/Document/103563/Pdf?subType=Standard</description>
-<pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Order Paper - Thursday 12 March 2026</title>
-<link>https://commonsbusiness.parliament.uk/Document/103050/Html?subType=Standard</link>
-<guid isPermaLink='true'>https://commonsbusiness.parliament.uk/Document/103050/Html?subType=Standard</guid>
-<description>Today&#x27;s business in the Chamber and Westminster Hall PDF: https://commonsbusiness.parliament.uk/Document/103050/Pdf?subType=Standard</description>
-<pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 </channel></rss>
