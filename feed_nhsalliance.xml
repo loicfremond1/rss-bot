@@ -4,7 +4,7 @@
 <title>The NHS Alliance - News</title>
 <link>https://thenhsalliance.org/news?page=1</link>
 <description>Custom RSS feed for The NHS Alliance news</description>
-<lastBuildDate>Wed, 20 May 2026 10:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 16:06:34 +0000</lastBuildDate>
 <item>
 <title>NHS leaders welcome whole-government approach to improving health in Wales</title>
 <link>https://thenhsalliance.org/news/nhs-leaders-welcome-whole-government-approach-to-improving-health-in-wales/</link>
@@ -17,6 +17,12 @@
 <link>https://thenhsalliance.org/news/the-nhs-alliance-comments-on-rcn-mental-health-findings/</link>
 <guid isPermaLink='true'>https://thenhsalliance.org/news/the-nhs-alliance-comments-on-rcn-mental-health-findings/</guid>
 <description>Rebecca Gray responds to findings from the Royal College of Nursing on children in a mental health crisis in A&amp;E.</description>
+<pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Welsh NHS Confederation launches glossary to improve understanding of health and care terminology</title>
+<link>https://thenhsalliance.org/news/welsh-nhs-confederation-launches-health-and-care-glossary/</link>
+<guid isPermaLink='true'>https://thenhsalliance.org/news/welsh-nhs-confederation-launches-health-and-care-glossary/</guid>
 <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -131,12 +137,5 @@
 <guid isPermaLink='true'>https://thenhsalliance.org/news/strike-is-bitterly-disappointing/</guid>
 <description>Rory Deighton comments on the latest strike by resident doctors.</description>
 <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>NHS Confederation and NHS Providers respond to first 27 new neighbourhood health centres</title>
-<link>https://thenhsalliance.org/news/nhs-confederation-and-nhs-providers-respond-to-announcement-of-the-first-27-new-neighbourhood-health-centres/</link>
-<guid isPermaLink='true'>https://thenhsalliance.org/news/nhs-confederation-and-nhs-providers-respond-to-announcement-of-the-first-27-new-neighbourhood-health-centres/</guid>
-<description>Ruth Rankine responds to the announcement of the first 27 new neighbourhood health centres.</description>
-<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
 </item>
 </channel></rss>
