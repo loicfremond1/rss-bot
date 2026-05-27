@@ -4,7 +4,14 @@
 <title>Ofgem - Press releases</title>
 <link>https://www.ofgem.gov.uk/news-and-insight/press-releases</link>
 <description>Custom RSS feed for Ofgem press releases</description>
-<lastBuildDate>Wed, 27 May 2026 04:53:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 May 2026 10:35:08 +0000</lastBuildDate>
+<item>
+<title>Energy price cap will rise by 13% from July</title>
+<link>https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-13-july</link>
+<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-13-july</guid>
+<description>Ofgem has announced a 13% increase of the energy price cap for the period covering 1 July to 30 September 2026.</description>
+<pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Ofgem sets rules for 2028 to 2033 grid investment to meet growing electricity demand</title>
 <link>https://www.ofgem.gov.uk/press-release/ofgem-sets-rules-2028-2033-grid-investment-meet-growing-electricity-demand</link>
@@ -137,12 +144,5 @@
 <guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-protects-customers-tomato-energy</guid>
 <description>Tomato Energy has today announced it is ceasing to trade. Customers’ energy supply will continue and funds that domestic customers have paid into their accounts, including existing credit balances, will be protected.</description>
 <pubDate>Wed, 05 Nov 2025 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ofgem and energy suppliers encourage consumers to reclaim £240 million in closed account balances</title>
-<link>https://www.ofgem.gov.uk/press-release/ofgem-and-energy-suppliers-encourage-consumers-reclaim-ps240-million-closed-account-balances</link>
-<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-and-energy-suppliers-encourage-consumers-reclaim-ps240-million-closed-account-balances</guid>
-<description>Around £240m of unclaimed credit balances in closed accounts are waiting to be returned to consumers.</description>
-<pubDate>Fri, 31 Oct 2025 12:00:00 +0000</pubDate>
 </item>
 </channel></rss>
