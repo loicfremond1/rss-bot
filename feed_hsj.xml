@@ -4,7 +4,7 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Mon, 15 Jun 2026 12:53:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 21:35:39 +0000</lastBuildDate>
 <item>
 <title>Bereaved families raise alarm about trust’s leadership churn</title>
 <link>https://www.hsj.co.uk/leeds-teaching-hospitals-nhs-trust/bereaved-families-raise-alarm-about-trusts-leadership-churn/8023675.article</link>
@@ -53,6 +53,13 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/quality-and-performance/mapped-rtt-waiting-times/8023692.article</guid>
 <description>An interactive map of local NHS waits around England in April 2026, showing the pressures, with links to all the details by organisation and specialty.</description>
 <pubDate>Fri, 12 Jun 2026 13:18:00 +0000</pubDate>
+</item>
+<item>
+<title>‘Vital’ NHS research centres face funding cut</title>
+<link>https://www.hsj.co.uk/finance-and-efficiency/vital-nhs-research-centres-face-funding-cut/7041769.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/finance-and-efficiency/vital-nhs-research-centres-face-funding-cut/7041769.article</guid>
+<description>Nationally funded research centres hosted by major teaching trusts are facing a cut of up to £187m from 2028.</description>
+<pubDate>Fri, 12 Jun 2026 12:53:00 +0000</pubDate>
 </item>
 <item>
 <title>Virtual hospital ‘won’t drain staff from other providers’</title>
@@ -137,12 +144,5 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/quality-and-performance/revealed-hospitals-with-the-most-red-line-24-hour-waits/8023651.article</guid>
 <description>At least one in 10 A&amp;E patients wait more than 24 hours at many hospitals, despite NHS England telling trusts to adopt a “zero tolerance” approach to such long waits, new figures have revealed.</description>
 <pubDate>Wed, 10 Jun 2026 13:20:00 +0000</pubDate>
-</item>
-<item>
-<title>Men earn more at 89% of trusts</title>
-<link>https://www.hsj.co.uk/workforce/men-earn-more-at-89-of-trusts/7041726.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/workforce/men-earn-more-at-89-of-trusts/7041726.article</guid>
-<description>The typical man earned more than the typical woman at nearly nine in 10 trusts last year, new figures show.</description>
-<pubDate>Wed, 10 Jun 2026 12:53:00 +0000</pubDate>
 </item>
 </channel></rss>
