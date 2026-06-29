@@ -4,7 +4,13 @@
 <title>The NHS Alliance - News</title>
 <link>https://thenhsalliance.org/news?page=1</link>
 <description>Custom RSS feed for The NHS Alliance news</description>
-<lastBuildDate>Mon, 29 Jun 2026 16:24:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 20:25:18 +0000</lastBuildDate>
+<item>
+<title>The NHS Alliance responds to BMA resident doctor ballot</title>
+<link>https://thenhsalliance.org/news/the-nhs-alliance-responds-to-bma-resident-doctor-ballot/</link>
+<guid isPermaLink='true'>https://thenhsalliance.org/news/the-nhs-alliance-responds-to-bma-resident-doctor-ballot/</guid>
+<description>Sir Ciarán Devane responds to BMA resident doctor ballot</description>
+</item>
 <item>
 <title>Strengthening leadership and shaping policy: Welsh NHS Confederation publishes 2025/26 impact</title>
 <link>https://thenhsalliance.org/news/strengthening-leadership-and-shaping-policy-welsh-nhs-confederation-publishes-202526-impact/</link>
@@ -136,12 +142,5 @@
 <guid isPermaLink='true'>https://thenhsalliance.org/news/the-nhs-alliance-responds-to-government-announcement-on-expansion-of-pharmacy-services/</guid>
 <description>Ruth Rankine says the rollout of independent prescribing is a crucial step in unlocking the full expertise and community reach of pharmacies.</description>
 <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The NHS Alliance responds to Milburn review findings</title>
-<link>https://thenhsalliance.org/news/the-nhs-alliance-responds-to-milburn-review-findings/</link>
-<guid isPermaLink='true'>https://thenhsalliance.org/news/the-nhs-alliance-responds-to-milburn-review-findings/</guid>
-<description>Rebecca Gray responds to findings from Alan MIlburn&#x27;s review into the increase in the number of young people who are Not in Education Employment or Training (NEET).</description>
-<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
 </item>
 </channel></rss>
