@@ -4,7 +4,14 @@
 <title>Ofgem - Press releases</title>
 <link>https://www.ofgem.gov.uk/news-and-insight/press-releases</link>
 <description>Custom RSS feed for Ofgem press releases</description>
-<lastBuildDate>Wed, 29 Jul 2026 03:47:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 09:19:20 +0000</lastBuildDate>
+<item>
+<title>Ofgem acts to free up grid capacity by tackling speculative data centre projects</title>
+<link>https://www.ofgem.gov.uk/press-release/ofgem-acts-free-grid-capacity-tackling-speculative-data-centre-projects</link>
+<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-acts-free-grid-capacity-tackling-speculative-data-centre-projects</guid>
+<description>.</description>
+<pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Ofgem boosts long duration storage to secure more homegrown energy for customers</title>
 <link>https://www.ofgem.gov.uk/press-release/ofgem-boosts-long-duration-storage-secure-more-homegrown-energy-customers</link>
@@ -137,12 +144,5 @@
 <guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-unlocks-early-investment-slew-fast-track-clean-power-projects</guid>
 <description>Ofgem approves early construction funding (ECF) for a number of major electricity transmission projects.</description>
 <pubDate>Wed, 19 Nov 2025 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ofgem appoints British Gas to take on customers of Tomato Energy</title>
-<link>https://www.ofgem.gov.uk/press-release/ofgem-appoints-british-gas-take-customers-tomato-energy</link>
-<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-appoints-british-gas-take-customers-tomato-energy</guid>
-<description>Ofgem has appointed British Gas to take on supplying Tomato Energy&#x27;s 15,000 domestic customers, and 8,000 non-domestic customers.</description>
-<pubDate>Mon, 10 Nov 2025 12:00:00 +0000</pubDate>
 </item>
 </channel></rss>
