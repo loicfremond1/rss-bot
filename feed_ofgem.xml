@@ -4,7 +4,14 @@
 <title>Ofgem - Press releases</title>
 <link>https://www.ofgem.gov.uk/news-and-insight/press-releases</link>
 <description>Custom RSS feed for Ofgem press releases</description>
-<lastBuildDate>Thu, 06 Aug 2026 09:19:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 14:43:27 +0000</lastBuildDate>
+<item>
+<title>Ofgem Energy Redress Scheme supports one million customers with record £250 million funding</title>
+<link>https://www.ofgem.gov.uk/press-release/ofgem-energy-redress-scheme-supports-one-million-customers-record-ps250-million-funding</link>
+<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-energy-redress-scheme-supports-one-million-customers-record-ps250-million-funding</guid>
+<description>Ofgem&#x27;s Energy Redress Scheme has received £250 million in funding, helping one million customers.</description>
+<pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Ofgem acts to free up grid capacity by tackling speculative data centre projects</title>
 <link>https://www.ofgem.gov.uk/press-release/ofgem-acts-free-grid-capacity-tackling-speculative-data-centre-projects</link>
@@ -137,12 +144,5 @@
 <guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-02-january</guid>
 <description>This change amounts to an increase of around 28 pence a month for the average dual fuel household.</description>
 <pubDate>Fri, 21 Nov 2025 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ofgem unlocks early investment for slew of fast-track clean power projects</title>
-<link>https://www.ofgem.gov.uk/press-release/ofgem-unlocks-early-investment-slew-fast-track-clean-power-projects</link>
-<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-unlocks-early-investment-slew-fast-track-clean-power-projects</guid>
-<description>Ofgem approves early construction funding (ECF) for a number of major electricity transmission projects.</description>
-<pubDate>Wed, 19 Nov 2025 12:00:00 +0000</pubDate>
 </item>
 </channel></rss>
