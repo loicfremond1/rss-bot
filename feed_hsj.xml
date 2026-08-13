@@ -4,14 +4,7 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Thu, 13 Aug 2026 03:12:35 +0000</lastBuildDate>
-<item>
-<title>Consultants bid to oust CEO</title>
-<link>https://www.hsj.co.uk/northern-lincolnshire-and-goole-nhs-foundation-trust/consultants-bid-to-oust-ceo/8124030.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/northern-lincolnshire-and-goole-nhs-foundation-trust/consultants-bid-to-oust-ceo/8124030.article</guid>
-<description>Three-quarters of consultants at a trust have signed a letter declaring they have no confidence in their chief executive.</description>
-<pubDate>Wed, 12 Aug 2026 15:31:00 +0000</pubDate>
-</item>
+<lastBuildDate>Thu, 13 Aug 2026 08:03:23 +0000</lastBuildDate>
 <item>
 <title>Group trusts to merge next year</title>
 <link>https://www.hsj.co.uk/policy-and-regulation/group-trusts-to-merge-next-year/8124028.article</link>
@@ -20,11 +13,18 @@
 <pubDate>Wed, 12 Aug 2026 14:09:00 +0000</pubDate>
 </item>
 <item>
-<title>Mapped: Most ICBs clash with devo footprints</title>
-<link>https://www.hsj.co.uk/integrated-care/mapped-most-icbs-clash-with-devo-footprints/8124014.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/integrated-care/mapped-most-icbs-clash-with-devo-footprints/8124014.article</guid>
-<description>Just six out of 25 integrated care board and cluster footprints match a current or proposed strategic authority boundary, HSJ analysis shows.</description>
-<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
+<title>Consultants bid to oust CEO</title>
+<link>https://www.hsj.co.uk/northern-lincolnshire-and-goole-nhs-foundation-trust/consultants-bid-to-oust-ceo/8124030.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/northern-lincolnshire-and-goole-nhs-foundation-trust/consultants-bid-to-oust-ceo/8124030.article</guid>
+<description>Three-quarters of consultants at a trust have signed a letter declaring they have no confidence in their chief executive.</description>
+<pubDate>Thu, 13 Aug 2026 02:31:00 +0000</pubDate>
+</item>
+<item>
+<title>‘Golden hellos’ offered in bid to reopen maternity unit</title>
+<link>https://www.hsj.co.uk/patient-safety/golden-hellos-offered-in-bid-to-reopen-maternity-unit/8124013.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/patient-safety/golden-hellos-offered-in-bid-to-reopen-maternity-unit/8124013.article</guid>
+<description>A trust is offering “golden hellos” to obstetric consultants to plug gaps at a rural maternity unit, where it suspended births this week, after a recruitment round failed last month.</description>
+<pubDate>Wed, 12 Aug 2026 15:33:00 +0000</pubDate>
 </item>
 <item>
 <title>ICB breached rules in £20m contract award</title>
@@ -32,6 +32,13 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/policy-and-regulation/icb-breached-rules-in-20m-contract-award/8123958.article</guid>
 <description>An integrated care board breached procurement rules while awarding a £20m general practice contract to a national corporate provider.</description>
 <pubDate>Wed, 12 Aug 2026 12:01:00 +0000</pubDate>
+</item>
+<item>
+<title>Mapped: Most ICBs clash with devo footprints</title>
+<link>https://www.hsj.co.uk/integrated-care/mapped-most-icbs-clash-with-devo-footprints/8124014.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/integrated-care/mapped-most-icbs-clash-with-devo-footprints/8124014.article</guid>
+<description>Just six out of 25 integrated care board and cluster footprints match a current or proposed strategic authority boundary, HSJ analysis shows.</description>
+<pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>League table positions wrong due to data error</title>
@@ -137,12 +144,5 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/the-queen-elizabeth-hospital-kings-lynn-nhs-foundation-trust/threat-to-remove-resident-doctors-after-racist-incidents/8123950.article</guid>
 <description>One of England’s most challenged trusts faces resident doctors being removed from two specialties due to racism from staff and patients, board papers have revealed.</description>
 <pubDate>Wed, 05 Aug 2026 04:01:00 +0000</pubDate>
-</item>
-<item>
-<title>Council privatises NHS-run care service</title>
-<link>https://www.hsj.co.uk/integrated-care/council-privatises-nhs-run-care-service/8123947.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/integrated-care/council-privatises-nhs-run-care-service/8123947.article</guid>
-<description>Private providers are set to take over the running of some adult social care services currently carried out by an NHS trust in the South West.</description>
-<pubDate>Wed, 05 Aug 2026 04:11:00 +0000</pubDate>
 </item>
 </channel></rss>
