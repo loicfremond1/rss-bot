@@ -4,13 +4,20 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Tue, 25 Aug 2026 02:07:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 07:28:53 +0000</lastBuildDate>
 <item>
-<title>Trusts face £900m bill to end zero-hours contracts, employers warn</title>
-<link>https://www.hsj.co.uk/workforce/trusts-face-900m-bill-to-end-zero-hours-contracts-employers-warn/8124126.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/workforce/trusts-face-900m-bill-to-end-zero-hours-contracts-employers-warn/8124126.article</guid>
-<description>Government attempts to crack down on “exploitative” zero-hours contracts could adversely affect bank staff and cost the NHS £900m a year, the body representing NHS workforce leaders has claimed.</description>
-<pubDate>Mon, 24 Aug 2026 09:07:00 +0000</pubDate>
+<title>Senior managers’ pay rise on hold as ministers review rules for struggling trusts</title>
+<link>https://www.hsj.co.uk/workforce/senior-managers-pay-rise-on-hold-as-ministers-review-rules-for-struggling-trusts/8124134.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/workforce/senior-managers-pay-rise-on-hold-as-ministers-review-rules-for-struggling-trusts/8124134.article</guid>
+<description>Directors and other “very senior managers” at trusts and integrated care boards are still waiting for their agreed pay rise for 2026-27, despite the financial year being nearly half over.</description>
+<pubDate>Tue, 25 Aug 2026 05:10:00 +0000</pubDate>
+</item>
+<item>
+<title>End of life care waits help push delayed discharges to record levels</title>
+<link>https://www.hsj.co.uk/quality-and-performance/end-of-life-care-waits-help-push-delayed-discharges-to-record-levels/8124107.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/quality-and-performance/end-of-life-care-waits-help-push-delayed-discharges-to-record-levels/8124107.article</guid>
+<description>Hospital discharge delays hit their highest level on record in July.</description>
+<pubDate>Tue, 25 Aug 2026 05:15:00 +0000</pubDate>
 </item>
 <item>
 <title>Governor claims he was intimidated ‘for reposting HSJ articles’</title>
@@ -18,6 +25,13 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/leadership/governor-claims-he-was-intimidated-for-reposting-hsj-articles/8124082.article</guid>
 <description>A governor has accused the leadership of a major hospital trust of seeking to “intimidate” him by launching a probe into his social media posts.</description>
 <pubDate>Mon, 24 Aug 2026 11:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Trusts face £900m bill to end zero-hours contracts, employers warn</title>
+<link>https://www.hsj.co.uk/workforce/trusts-face-900m-bill-to-end-zero-hours-contracts-employers-warn/8124126.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/workforce/trusts-face-900m-bill-to-end-zero-hours-contracts-employers-warn/8124126.article</guid>
+<description>Government attempts to crack down on “exploitative” zero-hours contracts could adversely affect bank staff and cost the NHS £900m a year, the body representing NHS workforce leaders has claimed.</description>
+<pubDate>Mon, 24 Aug 2026 09:07:00 +0000</pubDate>
 </item>
 <item>
 <title>Pioneer CEO: ‘IHOs won’t fix all ills’</title>
@@ -130,19 +144,5 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/patient-safety/exclusive-watchdog-links-patient-deaths-to-controversial-nhse-policy/8124080.article</guid>
 <description>A watchdog has called for a pause in the rollout of NHS England’s “advice and guidance” policy to protect safety, and linked it to two patient deaths, HSJ can reveal.</description>
 <pubDate>Tue, 18 Aug 2026 05:42:00 +0000</pubDate>
-</item>
-<item>
-<title>Trusts pilot schemes to cut single-use products</title>
-<link>https://www.hsj.co.uk/finance-and-efficiency/trusts-pilot-schemes-to-cut-single-use-products/8124029.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/finance-and-efficiency/trusts-pilot-schemes-to-cut-single-use-products/8124029.article</guid>
-<description>At least 20 NHS trusts will pilot a government scheme to cut back on single-use products and increase the use of reusable alternatives for widely used items such as tourniquets, blood pressure cuffs and sharps bins.</description>
-<pubDate>Mon, 17 Aug 2026 12:31:00 +0000</pubDate>
-</item>
-<item>
-<title>Revealed: The trusts that failed to sign up to NHSE’s financial plans</title>
-<link>https://www.hsj.co.uk/finance-and-efficiency/revealed-the-trusts-that-failed-to-sign-up-to-nhses-financial-plans/8124054.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/finance-and-efficiency/revealed-the-trusts-that-failed-to-sign-up-to-nhses-financial-plans/8124054.article</guid>
-<description>Ten trusts and one integrated care board had still not provided financially compliant plans for 2026-27 by the end of the first quarter, according to NHS England’s latest data.</description>
-<pubDate>Mon, 17 Aug 2026 12:30:00 +0000</pubDate>
 </item>
 </channel></rss>
