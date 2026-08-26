@@ -4,7 +4,14 @@
 <title>Ofgem - Press releases</title>
 <link>https://www.ofgem.gov.uk/news-and-insight/press-releases</link>
 <description>Custom RSS feed for Ofgem press releases</description>
-<lastBuildDate>Wed, 26 Aug 2026 02:06:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 07:23:11 +0000</lastBuildDate>
+<item>
+<title>Energy price cap will rise by 4% from October 2026</title>
+<link>https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-4-october-2026</link>
+<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-4-october-2026</guid>
+<description>Ofgem has announced a 4% increase of the energy price cap for the period covering 1 October to 31 December 2026.</description>
+<pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Ofgem Energy Redress Scheme supports one million customers with record £250 million funding</title>
 <link>https://www.ofgem.gov.uk/press-release/ofgem-energy-redress-scheme-supports-one-million-customers-record-ps250-million-funding</link>
@@ -137,12 +144,5 @@
 <guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-unlocks-ps28-billion-investment-maintain-safe-secure-and-resilient-energy-grid-and-upgrade-and-expand-capacity-meet-growing-demands</guid>
 <description>Network companies have been given the green light for multi-billion-pound funding to strengthen the stability, security and resilience of our energy networks.</description>
 <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Energy price cap will rise by 0.2% from January</title>
-<link>https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-02-january</link>
-<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-02-january</guid>
-<description>This change amounts to an increase of around 28 pence a month for the average dual fuel household.</description>
-<pubDate>Fri, 21 Nov 2025 12:00:00 +0000</pubDate>
 </item>
 </channel></rss>
