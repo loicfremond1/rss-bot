@@ -4,13 +4,20 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Thu, 03 Sep 2026 05:03:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 11:42:38 +0000</lastBuildDate>
 <item>
-<title>Second trust’s delay telling Southport victims of data breaches was ‘appalling’</title>
-<link>https://www.hsj.co.uk/north-west-ambulance-service-nhs-trust/second-trusts-delay-telling-southport-victims-of-data-breaches-was-appalling/8124170.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/north-west-ambulance-service-nhs-trust/second-trusts-delay-telling-southport-victims-of-data-breaches-was-appalling/8124170.article</guid>
-<description>An ambulance trust waited nearly two months before informing victims of the 2024 Southport attack that their patient records may have been accessed inappropriately by staff, HSJ has discovered.</description>
-<pubDate>Wed, 02 Sep 2026 05:48:00 +0000</pubDate>
+<title>NHS ends 12 years of staffing growth</title>
+<link>https://www.hsj.co.uk/workforce/nhs-ends-12-years-of-staffing-growth/8124208.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/workforce/nhs-ends-12-years-of-staffing-growth/8124208.article</guid>
+<description>The number of NHS staff in England is in year-on-year decline for the first time since 2013, as cuts to support and back-office roles combine with a sharp slowdown in clinical recruitment.</description>
+<pubDate>Thu, 03 Sep 2026 11:37:00 +0000</pubDate>
+</item>
+<item>
+<title>FDP is ‘here for the long term’, says NHSE boss</title>
+<link>https://www.hsj.co.uk/technology-and-innovation/fdp-is-here-for-the-long-term-says-nhse-boss/8124204.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/technology-and-innovation/fdp-is-here-for-the-long-term-says-nhse-boss/8124204.article</guid>
+<description>NHS England has vowed to press ahead with the controversial federated data platform and has insisted it is “here for the long term”, despite mounting pressure to cancel its contract with Palantir.</description>
+<pubDate>Thu, 03 Sep 2026 05:52:00 +0000</pubDate>
 </item>
 <item>
 <title>Many maternity units have ‘structural difficulties’, PM admits</title>
@@ -25,6 +32,13 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/recognise-negative-impact-mutual-aid-can-have-on-performance-pleads-trust-ceo/8124180.article</guid>
 <description>The chief executive of a trust that has fallen 34 places in NHS England’s provider performance league table has complained that the ranking fails to take into account its efforts to help neighbours.</description>
 <pubDate>Wed, 02 Sep 2026 05:51:00 +0000</pubDate>
+</item>
+<item>
+<title>Second trust’s delay telling Southport victims of data breaches was ‘appalling’</title>
+<link>https://www.hsj.co.uk/north-west-ambulance-service-nhs-trust/second-trusts-delay-telling-southport-victims-of-data-breaches-was-appalling/8124170.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/north-west-ambulance-service-nhs-trust/second-trusts-delay-telling-southport-victims-of-data-breaches-was-appalling/8124170.article</guid>
+<description>An ambulance trust waited nearly two months before informing victims of the 2024 Southport attack that their patient records may have been accessed inappropriately by staff, HSJ has discovered.</description>
+<pubDate>Wed, 02 Sep 2026 05:48:00 +0000</pubDate>
 </item>
 <item>
 <title>Government U-turns on ICB board change</title>
@@ -130,19 +144,5 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/workforce/trusts-face-900m-bill-to-end-zero-hours-contracts-employers-warn/8124126.article</guid>
 <description>Government attempts to crack down on “exploitative” zero-hours contracts could adversely affect bank staff and cost the NHS £900m a year, the body representing NHS workforce leaders has claimed.</description>
 <pubDate>Mon, 24 Aug 2026 09:07:00 +0000</pubDate>
-</item>
-<item>
-<title>Pioneer CEO: ‘IHOs won’t fix all ills’</title>
-<link>https://www.hsj.co.uk/integrated-care/pioneer-ceo-ihos-wont-fix-all-ills/8124105.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/integrated-care/pioneer-ceo-ihos-wont-fix-all-ills/8124105.article</guid>
-<description>The CEO of a leading trust that is set to begin a “phased” launch of an integrated health organisation has warned the model should not be expected to “fix the ills of everything”.</description>
-<pubDate>Mon, 24 Aug 2026 04:02:00 +0000</pubDate>
-</item>
-<item>
-<title>In-house EPRs can avoid ‘phenomenal’ costs, says top CEO</title>
-<link>https://www.hsj.co.uk/leadership/in-house-eprs-can-avoid-phenomenal-costs-says-top-ceo/8124099.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/leadership/in-house-eprs-can-avoid-phenomenal-costs-says-top-ceo/8124099.article</guid>
-<description>A leading hospital chief executive has championed in-house NHS technology that costs “a fraction” of major commercial systems – and said she does not use the federated data platform.</description>
-<pubDate>Mon, 24 Aug 2026 03:51:00 +0000</pubDate>
 </item>
 </channel></rss>
