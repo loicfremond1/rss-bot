@@ -4,7 +4,14 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Fri, 11 Sep 2026 05:15:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 11:48:02 +0000</lastBuildDate>
+<item>
+<title>17 trusts lose segment 1 status under new league table rules</title>
+<link>https://www.hsj.co.uk/policy-and-regulation/17-trusts-lose-segment-1-status-under-new-league-table-rules/8124286.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/policy-and-regulation/17-trusts-lose-segment-1-status-under-new-league-table-rules/8124286.article</guid>
+<description>Ten fewer trusts are in the top segment of NHS England’s oversight framework, in the first results under revised rules that have raised the bar for the highest rating.</description>
+<pubDate>Fri, 11 Sep 2026 04:59:00 +0000</pubDate>
+</item>
 <item>
 <title>Largest trust overhauls procurement practices after HSJ probe</title>
 <link>https://www.hsj.co.uk/manchester-university-nhs-foundation-trust/largest-trust-overhauls-procurement-practices-after-hsj-probe/8124240.article</link>
@@ -13,10 +20,17 @@
 <pubDate>Thu, 10 Sep 2026 11:25:00 +0000</pubDate>
 </item>
 <item>
+<title>NHSE’s FDP claims face fresh investigation</title>
+<link>https://www.hsj.co.uk/technology-and-innovation/nhses-fdp-claims-face-fresh-investigation/8124281.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/technology-and-innovation/nhses-fdp-claims-face-fresh-investigation/8124281.article</guid>
+<description>NHS England is being investigated again by the statistics regulator after a trust revealed it did not write a case study highlighting the local benefits of the FDP.</description>
+<pubDate>Fri, 11 Sep 2026 05:06:00 +0000</pubDate>
+</item>
+<item>
 <title>Mapped: RTT waiting times</title>
 <link>https://www.hsj.co.uk/quality-and-performance/mapped-rtt-waiting-times/8124280.article</link>
 <guid isPermaLink='true'>https://www.hsj.co.uk/quality-and-performance/mapped-rtt-waiting-times/8124280.article</guid>
-<description>An interactive map of local NHS waits around England in July 2026, showing the pressures, with links to all the details by organisation and specialty.</description>
+<description>An interactive map of local referral-to-treatment waiting times around England, updated with the latest data for July 2026.</description>
 <pubDate>Thu, 10 Sep 2026 14:51:00 +0000</pubDate>
 </item>
 <item>
@@ -130,19 +144,5 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/workforce/nhs-ends-12-years-of-staffing-growth/8124208.article</guid>
 <description>The number of NHS staff in England is in year-on-year decline for the first time since 2013, as cuts to support and back-office roles combine with a sharp slowdown in clinical recruitment.</description>
 <pubDate>Thu, 03 Sep 2026 11:37:00 +0000</pubDate>
-</item>
-<item>
-<title>FDP is ‘here for the long term’, says NHSE boss</title>
-<link>https://www.hsj.co.uk/technology-and-innovation/fdp-is-here-for-the-long-term-says-nhse-boss/8124204.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/technology-and-innovation/fdp-is-here-for-the-long-term-says-nhse-boss/8124204.article</guid>
-<description>NHS England has vowed to press ahead with the controversial federated data platform and has insisted it is “here for the long term”, despite mounting pressure to cancel its contract with Palantir.</description>
-<pubDate>Thu, 03 Sep 2026 05:52:00 +0000</pubDate>
-</item>
-<item>
-<title>Many maternity units have ‘structural difficulties’, PM admits</title>
-<link>https://www.hsj.co.uk/patient-safety/many-maternity-units-have-structural-difficulties-pm-admits/8124205.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/patient-safety/many-maternity-units-have-structural-difficulties-pm-admits/8124205.article</guid>
-<description>The prime minister has admitted “structural difficulties” similar to those faced by a rural maternity unit recently forced to close over staff shortages are widespread across the NHS.</description>
-<pubDate>Wed, 02 Sep 2026 13:40:00 +0000</pubDate>
 </item>
 </channel></rss>
