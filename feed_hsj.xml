@@ -4,7 +4,14 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Thu, 17 Sep 2026 17:15:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 21:45:16 +0000</lastBuildDate>
+<item>
+<title>GP leaders seek end to ’hostilities’</title>
+<link>https://www.hsj.co.uk/primary-care/gp-leaders-seek-end-to-hostilities/8124352.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/primary-care/gp-leaders-seek-end-to-hostilities/8124352.article</guid>
+<description>The British Medical Association’s GP committee has voted against escalating its “collective action”, in a bid to “reset” its relationship with government and NHS England.</description>
+<pubDate>Thu, 17 Sep 2026 17:53:00 +0000</pubDate>
+</item>
 <item>
 <title>Private providers face tougher rules on payment</title>
 <link>https://www.hsj.co.uk/mental-health/private-providers-face-tougher-rules-on-payment/8124340.article</link>
@@ -18,6 +25,13 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/finance-and-efficiency/six-neighbourhoods-seek-investors-to-derisk-expansion/8124333.article</guid>
 <description>Six “neighbourhood health” projects are being pump-primed by government to secure millions of pounds of private investment.</description>
 <pubDate>Thu, 17 Sep 2026 11:49:00 +0000</pubDate>
+</item>
+<item>
+<title>Judge to examine trust’s care failings</title>
+<link>https://www.hsj.co.uk/tees-esk-and-wear-valleys-nhs-foundation-trust/judge-to-examine-trusts-care-failings/8124351.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/tees-esk-and-wear-valleys-nhs-foundation-trust/judge-to-examine-trusts-care-failings/8124351.article</guid>
+<description>Government has named a chair for its public inquiry into care and governance failings at a mental health trust – nine months after the probe was promised.</description>
+<pubDate>Thu, 17 Sep 2026 17:52:00 +0000</pubDate>
 </item>
 <item>
 <title>Exclusive: NHS CEO will keep top-tier status</title>
@@ -130,19 +144,5 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/leadership/chair-of-3bn-trust-to-step-down/8124282.article</guid>
 <description>The chair of a £3bn hospital trust will step down at the end of the year, after a decade spent leading some of the NHS’s top organisations.</description>
 <pubDate>Fri, 11 Sep 2026 11:40:00 +0000</pubDate>
-</item>
-<item>
-<title>Exclusive: First AI clinical negligence claims lodged</title>
-<link>https://www.hsj.co.uk/patient-safety/exclusive-first-ai-clinical-negligence-claims-lodged/8124278.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/patient-safety/exclusive-first-ai-clinical-negligence-claims-lodged/8124278.article</guid>
-<description>The NHS has received its first clinical negligence claims related to the use of artificial intelligence, HSJ can reveal.</description>
-<pubDate>Fri, 11 Sep 2026 11:39:00 +0000</pubDate>
-</item>
-<item>
-<title>NHSE’s FDP claims face fresh investigation</title>
-<link>https://www.hsj.co.uk/technology-and-innovation/nhses-fdp-claims-face-fresh-investigation/8124281.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/technology-and-innovation/nhses-fdp-claims-face-fresh-investigation/8124281.article</guid>
-<description>NHS England is being investigated again by the statistics regulator after a trust revealed it did not write a case study highlighting the local benefits of the FDP.</description>
-<pubDate>Fri, 11 Sep 2026 05:06:00 +0000</pubDate>
 </item>
 </channel></rss>
