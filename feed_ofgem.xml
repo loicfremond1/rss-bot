@@ -4,7 +4,14 @@
 <title>Ofgem - Press releases</title>
 <link>https://www.ofgem.gov.uk/news-and-insight/press-releases</link>
 <description>Custom RSS feed for Ofgem press releases</description>
-<lastBuildDate>Thu, 17 Sep 2026 05:04:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 11:55:27 +0000</lastBuildDate>
+<item>
+<title>Ofgem moves to free up grid capacity by tackling excess battery projects</title>
+<link>https://www.ofgem.gov.uk/press-release/ofgem-moves-free-grid-capacity-tackling-excess-battery-projects</link>
+<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-moves-free-grid-capacity-tackling-excess-battery-projects</guid>
+<description>Ofgem proposes to approve a new commitment fee to help clear the battery connections queue and free up capacity for viable projects.</description>
+<pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Energy price cap will rise by 4% from October 2026</title>
 <link>https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-4-october-2026</link>
@@ -137,12 +144,5 @@
 <guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-sets-out-major-reform-package-next-step-accelerate-grid-connections</guid>
 <description>Ofgem has unveiled proposals to speed up grid connections, whilst at the same time warning network operators to hit tough new targets or risk facing financial penalties.</description>
 <pubDate>Mon, 08 Dec 2025 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ofgem unlocks £28 billion investment to maintain a safe, secure and resilient energy grid and to upgrade and expand capacity to meet growing demands</title>
-<link>https://www.ofgem.gov.uk/press-release/ofgem-unlocks-ps28-billion-investment-maintain-safe-secure-and-resilient-energy-grid-and-upgrade-and-expand-capacity-meet-growing-demands</link>
-<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-unlocks-ps28-billion-investment-maintain-safe-secure-and-resilient-energy-grid-and-upgrade-and-expand-capacity-meet-growing-demands</guid>
-<description>Network companies have been given the green light for multi-billion-pound funding to strengthen the stability, security and resilience of our energy networks.</description>
-<pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
 </item>
 </channel></rss>
