@@ -4,20 +4,27 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Thu, 17 Sep 2026 05:22:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 12:05:05 +0000</lastBuildDate>
+<item>
+<title>Private providers face tougher rules on payment</title>
+<link>https://www.hsj.co.uk/mental-health/private-providers-face-tougher-rules-on-payment/8124340.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/mental-health/private-providers-face-tougher-rules-on-payment/8124340.article</guid>
+<description>A major government review into the prevalence of mental illness and neurodivergence is set to call for a mandatory tariff and specification to tackle huge variation in price and quality in ADHD and autism services, HSJ understands.</description>
+<pubDate>Thu, 17 Sep 2026 11:48:00 +0000</pubDate>
+</item>
+<item>
+<title>Six ‘neighbourhoods’ seek investors to ‘de-risk’ expansion</title>
+<link>https://www.hsj.co.uk/finance-and-efficiency/six-neighbourhoods-seek-investors-to-de-risk-expansion/8124333.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/finance-and-efficiency/six-neighbourhoods-seek-investors-to-de-risk-expansion/8124333.article</guid>
+<description>Six “neighbourhood health” projects are being pump-primed by government to secure millions of pounds of private investment.</description>
+<pubDate>Thu, 17 Sep 2026 11:49:00 +0000</pubDate>
+</item>
 <item>
 <title>Exclusive: NHS CEO will keep top-tier status</title>
 <link>https://www.hsj.co.uk/policy-and-regulation/exclusive-nhs-ceo-will-keep-top-tier-status/8124311.article</link>
 <guid isPermaLink='true'>https://www.hsj.co.uk/policy-and-regulation/exclusive-nhs-ceo-will-keep-top-tier-status/8124311.article</guid>
 <description>The NHS chief executive is set to have equal rank in government to the health department’s permanent secretary when NHS England is abolished – meaning a proposal to downgrade their status has been rejected by ministers.</description>
 <pubDate>Wed, 16 Sep 2026 20:24:00 +0000</pubDate>
-</item>
-<item>
-<title>£2.5bn tech programme dubbed ‘unachievable’</title>
-<link>https://www.hsj.co.uk/technology-and-innovation/25bn-tech-programme-dubbed-unachievable/8124314.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/technology-and-innovation/25bn-tech-programme-dubbed-unachievable/8124314.article</guid>
-<description>Successful delivery of NHS England’s £2.5bn Frontline Productivity programme “appears to be unachievable” due to governance failures and political uncertainty, according to a government review.</description>
-<pubDate>Wed, 16 Sep 2026 11:56:00 +0000</pubDate>
 </item>
 <item>
 <title>Managers ‘should not feel affronted’ by Letby inquiry, says CEO</title>
@@ -32,6 +39,13 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/mental-health/ft-takes-over-services-from-failing-provider/8124330.article</guid>
 <description>A trust has completed an unprecedented takeover of services from a failing independent provider.</description>
 <pubDate>Wed, 16 Sep 2026 11:57:00 +0000</pubDate>
+</item>
+<item>
+<title>£2.5bn tech programme dubbed ‘unachievable’</title>
+<link>https://www.hsj.co.uk/technology-and-innovation/25bn-tech-programme-dubbed-unachievable/8124314.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/technology-and-innovation/25bn-tech-programme-dubbed-unachievable/8124314.article</guid>
+<description>Successful delivery of NHS England’s £2.5bn Frontline Productivity programme “appears to be unachievable” due to governance failures and political uncertainty, according to a government review.</description>
+<pubDate>Wed, 16 Sep 2026 11:56:00 +0000</pubDate>
 </item>
 <item>
 <title>Former midwife to chair merger trust</title>
@@ -130,19 +144,5 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/technology-and-innovation/nhses-fdp-claims-face-fresh-investigation/8124281.article</guid>
 <description>NHS England is being investigated again by the statistics regulator after a trust revealed it did not write a case study highlighting the local benefits of the FDP.</description>
 <pubDate>Fri, 11 Sep 2026 05:06:00 +0000</pubDate>
-</item>
-<item>
-<title>17 trusts lose segment 1 status under new league table rules</title>
-<link>https://www.hsj.co.uk/policy-and-regulation/17-trusts-lose-segment-1-status-under-new-league-table-rules/8124286.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/policy-and-regulation/17-trusts-lose-segment-1-status-under-new-league-table-rules/8124286.article</guid>
-<description>Ten fewer trusts are in the top segment of NHS England’s oversight framework, in the first results under revised rules that have raised the bar for the highest rating.</description>
-<pubDate>Fri, 11 Sep 2026 04:59:00 +0000</pubDate>
-</item>
-<item>
-<title>Mapped: RTT waiting times</title>
-<link>https://www.hsj.co.uk/quality-and-performance/mapped-rtt-waiting-times/8124280.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/quality-and-performance/mapped-rtt-waiting-times/8124280.article</guid>
-<description>An interactive map of local referral-to-treatment waiting times around England, updated with the latest data for July 2026.</description>
-<pubDate>Thu, 10 Sep 2026 14:51:00 +0000</pubDate>
 </item>
 </channel></rss>
