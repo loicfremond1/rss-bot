@@ -4,7 +4,14 @@
 <title>Ofgem - Press releases</title>
 <link>https://www.ofgem.gov.uk/news-and-insight/press-releases</link>
 <description>Custom RSS feed for Ofgem press releases</description>
-<lastBuildDate>Mon, 05 Oct 2026 05:59:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 15:04:17 +0000</lastBuildDate>
+<item>
+<title>Ofgem appoints Tim Jarvis as Chief Executive</title>
+<link>https://www.ofgem.gov.uk/press-release/ofgem-appoints-tim-jarvis-chief-executive</link>
+<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-appoints-tim-jarvis-chief-executive</guid>
+<description>The Board of Ofgem has confirmed the appointment of Tim Jarvis as Chief Executive following a rigorous and competitive recruitment process.</description>
+<pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Ofgem moves to free up grid capacity by tackling excess battery projects</title>
 <link>https://www.ofgem.gov.uk/press-release/ofgem-moves-free-grid-capacity-tackling-excess-battery-projects</link>
@@ -137,12 +144,5 @@
 <guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-agrees-early-investment-and-updated-dates-proposed-electricity-superhighways</guid>
 <description>Ofgem has approved updated delivery dates and early investment for three major projects which will help boost Great Britain’s energy security and clean power ambitions and deliver projected savings for consumers.</description>
 <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ofgem sets out major reform package in next step to accelerate grid connections</title>
-<link>https://www.ofgem.gov.uk/press-release/ofgem-sets-out-major-reform-package-next-step-accelerate-grid-connections</link>
-<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-sets-out-major-reform-package-next-step-accelerate-grid-connections</guid>
-<description>Ofgem has unveiled proposals to speed up grid connections, whilst at the same time warning network operators to hit tough new targets or risk facing financial penalties.</description>
-<pubDate>Mon, 08 Dec 2025 12:00:00 +0000</pubDate>
 </item>
 </channel></rss>
