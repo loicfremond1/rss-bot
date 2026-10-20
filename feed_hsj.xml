@@ -4,7 +4,21 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Tue, 20 Oct 2026 05:17:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 12:11:21 +0000</lastBuildDate>
+<item>
+<title>Chemo delays blamed on bank pay cuts</title>
+<link>https://www.hsj.co.uk/quality-and-performance/chemo-delays-blamed-on-bank-pay-cuts/8124554.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/quality-and-performance/chemo-delays-blamed-on-bank-pay-cuts/8124554.article</guid>
+<description>Patients have been waiting up to a month for chemotherapy appointments because of staffing shortages partly caused by reductions in bank rates.</description>
+<pubDate>Tue, 20 Oct 2026 09:03:00 +0000</pubDate>
+</item>
+<item>
+<title>Investigation after patient ordered poison to inpatient unit</title>
+<link>https://www.hsj.co.uk/patient-safety/investigation-after-patient-ordered-poison-to-inpatient-unit/8124606.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/patient-safety/investigation-after-patient-ordered-poison-to-inpatient-unit/8124606.article</guid>
+<description>The Care Quality Commission is examining the circumstances surrounding the death of a patient at a psychiatric hospital in Birmingham.</description>
+<pubDate>Tue, 20 Oct 2026 09:03:00 +0000</pubDate>
+</item>
 <item>
 <title>£460m patient transport deal collapses again</title>
 <link>https://www.hsj.co.uk/finance-and-efficiency/460m-patient-transport-deal-collapses-again/8124564.article</link>
@@ -130,19 +144,5 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/policy-and-regulation/stevens-health-bill-risks-trumpian-politicisation-of-appointments/8124567.article</guid>
 <description>A former NHS England chief executive has criticised the government’s Health Bill for risking a US-style politicisation of local NHS appointments.</description>
 <pubDate>Wed, 14 Oct 2026 04:56:00 +0000</pubDate>
-</item>
-<item>
-<title>Fraud warning after trust misled funder</title>
-<link>https://www.hsj.co.uk/finance-and-efficiency/fraud-warning-after-trust-misled-funder/8124531.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/finance-and-efficiency/fraud-warning-after-trust-misled-funder/8124531.article</guid>
-<description>A trust misled a government green energy funder over £14.5m of grant funding, in a case its auditors say may indicate fraud.</description>
-<pubDate>Wed, 14 Oct 2026 04:38:00 +0000</pubDate>
-</item>
-<item>
-<title>Watchdog clashes with Palantir over threat to health data</title>
-<link>https://www.hsj.co.uk/technology-and-innovation/watchdog-clashes-with-palantir-over-threat-to-health-data/8124559.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/technology-and-innovation/watchdog-clashes-with-palantir-over-threat-to-health-data/8124559.article</guid>
-<description>The National Data Guardian has warned that public concern about the federated data platform may undermine the quality of health data – prompting Palantir to accuse her of being “captured by campaign groups”.</description>
-<pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
 </item>
 </channel></rss>
