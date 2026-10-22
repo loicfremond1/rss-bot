@@ -4,7 +4,14 @@
 <title>Ofgem - Press releases</title>
 <link>https://www.ofgem.gov.uk/news-and-insight/press-releases</link>
 <description>Custom RSS feed for Ofgem press releases</description>
-<lastBuildDate>Thu, 22 Oct 2026 05:07:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 12:11:25 +0000</lastBuildDate>
+<item>
+<title>Ofgem consults on proposals to reinforce gas import capability</title>
+<link>https://www.ofgem.gov.uk/press-release/ofgem-consults-proposals-reinforce-gas-import-capability</link>
+<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-consults-proposals-reinforce-gas-import-capability</guid>
+<description>Today, Ofgem has approved Interconnector Limited entering into an agreement, under its licence, with National Gas Transmission plc to reinforce gas import capability through the Great Britain-Belgium interconnector.</description>
+<pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Ofgem launches biggest ever OFTO tender round for £3.5 billion Hornsea 3 offshore transmission link</title>
 <link>https://www.ofgem.gov.uk/press-release/ofgem-launches-biggest-ever-ofto-tender-round-ps35-billion-hornsea-3-offshore-transmission-link</link>
@@ -137,12 +144,5 @@
 <guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/energy-price-cap-will-fall-7-april</guid>
 <description>The change amounts to a reduction of around £10 a month for the average household using both electricity and gas.</description>
 <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ofgem to roll out tougher smart meter rules from February</title>
-<link>https://www.ofgem.gov.uk/press-release/ofgem-roll-out-tougher-smart-meter-rules-february</link>
-<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-roll-out-tougher-smart-meter-rules-february</guid>
-<description>New smart meter standards and more compensation for customers facing long wait times for installations or repairs will take effect from February, following a decision made by Ofgem.</description>
-<pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
 </item>
 </channel></rss>
