@@ -4,7 +4,14 @@
 <title>Ofgem - Press releases</title>
 <link>https://www.ofgem.gov.uk/news-and-insight/press-releases</link>
 <description>Custom RSS feed for Ofgem press releases</description>
-<lastBuildDate>Thu, 29 Oct 2026 06:06:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 13:26:33 +0000</lastBuildDate>
+<item>
+<title>New &#x27;circuit breaker&#x27; strategy launched to help households get out of energy debt</title>
+<link>https://www.ofgem.gov.uk/press-release/new-circuit-breaker-strategy-launched-help-households-get-out-energy-debt</link>
+<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/new-circuit-breaker-strategy-launched-help-households-get-out-energy-debt</guid>
+<description>Helping struggling households break the cycle of energy debt is at the heart of a new three-pronged strategy unveiled by Government and regulator Ofgem.</description>
+<pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Ofgem consults on proposals to reinforce gas import capability</title>
 <link>https://www.ofgem.gov.uk/press-release/ofgem-consults-proposals-reinforce-gas-import-capability</link>
@@ -137,12 +144,5 @@
 <guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/ofgem-announces-ceo-jonathan-brearleys-departure-and-transition-plan</guid>
 <description>Ofgem Chief Executive Officer Jonathan Brearley will be stepping down from his role at the end of March to take up the position of Permanent Secretary at the Department for Energy Security and Net Zero.</description>
 <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Energy price cap will fall by 7% from April</title>
-<link>https://www.ofgem.gov.uk/press-release/energy-price-cap-will-fall-7-april</link>
-<guid isPermaLink='true'>https://www.ofgem.gov.uk/press-release/energy-price-cap-will-fall-7-april</guid>
-<description>The change amounts to a reduction of around £10 a month for the average household using both electricity and gas.</description>
-<pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
 </item>
 </channel></rss>
