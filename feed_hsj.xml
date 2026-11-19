@@ -4,13 +4,13 @@
 <title>HSJ - Latest news</title>
 <link>https://www.hsj.co.uk/latest-news/20683.more?navcode=2238</link>
 <description>Custom RSS feed for HSJ latest news</description>
-<lastBuildDate>Wed, 18 Nov 2026 20:53:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 07:55:50 +0000</lastBuildDate>
 <item>
-<title>Cooper vows to ‘refocus’ neighbourhood health reform</title>
-<link>https://www.hsj.co.uk/integrated-care/cooper-vows-to-refocus-neighbourhood-health-reform/8124959.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/integrated-care/cooper-vows-to-refocus-neighbourhood-health-reform/8124959.article</guid>
-<description>The health and social care secretary has pledged to “refocus” neighbourhood health reforms away from “boundaries [and] restructuring”.</description>
-<pubDate>Wed, 18 Nov 2026 13:12:00 +0000</pubDate>
+<title>Trust ‘faces £3m payout’ after whistleblower ruling</title>
+<link>https://www.hsj.co.uk/patient-safety/trust-faces-3m-payout-after-whistleblower-ruling/8124963.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/patient-safety/trust-faces-3m-payout-after-whistleblower-ruling/8124963.article</guid>
+<description>A teaching hospital trust could face a potential £3m payout to a whistleblower who accused “senior people” at the trust of concealing information relating to deaths, patient mistreatment and sexual assaults, after a tribunal threw out its defence to her unfair dismissal case.</description>
+<pubDate>Thu, 19 Nov 2026 05:08:00 +0000</pubDate>
 </item>
 <item>
 <title>Revealed: One in five pensions paid late</title>
@@ -18,6 +18,13 @@
 <guid isPermaLink='true'>https://www.hsj.co.uk/workforce/revealed-one-in-five-pensions-paid-late/8124935.article</guid>
 <description>There were so many delays to NHS pensions over the past 18 months that government had to pay out millions in compensation for lost interest.</description>
 <pubDate>Wed, 18 Nov 2026 13:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Cooper vows to ‘refocus’ neighbourhood health reform</title>
+<link>https://www.hsj.co.uk/integrated-care/cooper-vows-to-refocus-neighbourhood-health-reform/8124959.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/integrated-care/cooper-vows-to-refocus-neighbourhood-health-reform/8124959.article</guid>
+<description>The health and social care secretary has pledged to “refocus” neighbourhood health reforms away from “boundaries [and] restructuring”.</description>
+<pubDate>Wed, 18 Nov 2026 13:12:00 +0000</pubDate>
 </item>
 <item>
 <title>‘Senior people’ accused of covering up death and sexual assault allegations</title>
@@ -125,13 +132,6 @@
 <pubDate>Thu, 12 Nov 2026 08:19:00 +0000</pubDate>
 </item>
 <item>
-<title>‘Significant patient harm’ caused by ‘failing’ trust service</title>
-<link>https://www.hsj.co.uk/east-lancashire-hospitals-nhs-trust/significant-patient-harm-caused-by-failing-trust-service/8124898.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/east-lancashire-hospitals-nhs-trust/significant-patient-harm-caused-by-failing-trust-service/8124898.article</guid>
-<description>Patients were left with “advanced visual impairment” after waiting too long for treatment at a trust given the highest rating for access to services by NHS England, HSJ has discovered.</description>
-<pubDate>Thu, 12 Nov 2026 04:00:00 +0000</pubDate>
-</item>
-<item>
 <title>National director joins teaching trust board</title>
 <link>https://www.hsj.co.uk/patient-safety/national-director-joins-teaching-trust-board/8124897.article</link>
 <guid isPermaLink='true'>https://www.hsj.co.uk/patient-safety/national-director-joins-teaching-trust-board/8124897.article</guid>
@@ -139,10 +139,10 @@
 <pubDate>Thu, 12 Nov 2026 04:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Consultants strike ‘paused’</title>
-<link>https://www.hsj.co.uk/workforce/consultants-strike-paused/8124896.article</link>
-<guid isPermaLink='true'>https://www.hsj.co.uk/workforce/consultants-strike-paused/8124896.article</guid>
-<description>Strikes planned by medical consultants for later this month have been “paused”, with their union saying government has agreed to open negotiations.</description>
-<pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
+<title>‘Significant patient harm’ caused by ‘failing’ trust service</title>
+<link>https://www.hsj.co.uk/east-lancashire-hospitals-nhs-trust/significant-patient-harm-caused-by-failing-trust-service/8124898.article</link>
+<guid isPermaLink='true'>https://www.hsj.co.uk/east-lancashire-hospitals-nhs-trust/significant-patient-harm-caused-by-failing-trust-service/8124898.article</guid>
+<description>Patients were left with “advanced visual impairment” after waiting too long for treatment at a trust given the highest rating for access to services by NHS England, HSJ has discovered.</description>
+<pubDate>Thu, 12 Nov 2026 04:00:00 +0000</pubDate>
 </item>
 </channel></rss>
